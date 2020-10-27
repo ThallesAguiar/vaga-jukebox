@@ -1,2 +1,2 @@
 # vaga-jukebox
-repositório temporário para mostrar teste de proficiência.
+repositório para mostrar teste de proficiência.
